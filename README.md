@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0042-trapping-rain-water) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,4 +29,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0595-big-countries](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Pranjalraj0404/leetcode_review/tree/master/1757-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
