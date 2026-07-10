@@ -18,8 +18,25 @@ public:
         inorder(root->right, ans);
     }
     vector<int> inorderTraversal(TreeNode* root) {
-        vector<int> ans;
-        inorder(root,ans);
-        return ans;
-    }
+        // vector<int> ans;
+        // inorder(root,ans);
+        // return ans;
+
+        stack<TreeNode*> st;
+        TreeNode* node = root;
+        vector<int> inorder;
+        while(true){
+            if(node != NULL){
+                st.push(node);
+                node = node->left;
+            }
+            else{
+                if(st.empty()) break;
+                node = st.top();
+                st.pop();
+                inorder.push_back(node->val);
+                node = node->right;
+            }
+        }
+        return inorder;}
 };
