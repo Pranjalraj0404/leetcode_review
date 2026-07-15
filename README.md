@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0595-big-countries) |
