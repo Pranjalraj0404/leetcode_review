@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0042-trapping-rain-water) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0130-surrounded-regions) |
+| [0152-maximum-product-subarray](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0215-kth-largest-element-in-an-array) |
 | [0542-01-matrix](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0542-01-matrix) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0042-trapping-rain-water) |
+| [0152-maximum-product-subarray](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0678-valid-parenthesis-string) |
 ## Stack
