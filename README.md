@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0042-trapping-rain-water) |
+| [0073-set-matrix-zeroes](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0152-maximum-product-subarray) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0542-01-matrix) |
