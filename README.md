@@ -278,4 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0802-find-eventual-safe-states) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
