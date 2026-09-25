@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0678-valid-parenthesis-string) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0070-climbing-stairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pranjalraj0404/leetcode_review/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -338,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Pranjalraj0404/leetcode_review/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
