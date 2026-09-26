@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0006-zigzag-conversion) |
 | [0127-word-ladder](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0257-binary-tree-paths) |
 | [0678-valid-parenthesis-string](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
