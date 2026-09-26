@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0217-contains-duplicate) |
 | [0542-01-matrix](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0542-01-matrix) |
 | [0827-making-a-large-island](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0994-rotting-oranges) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0217-contains-duplicate) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0127-word-ladder) |
+| [0217-contains-duplicate](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0217-contains-duplicate) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0947-most-stones-removed-with-same-row-or-column) |
