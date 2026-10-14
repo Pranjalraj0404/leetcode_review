@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
 |  |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -368,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0062-unique-paths) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
