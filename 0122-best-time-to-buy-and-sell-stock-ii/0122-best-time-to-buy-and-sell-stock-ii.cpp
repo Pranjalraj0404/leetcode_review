@@ -17,7 +17,31 @@ public:
         return dp[index][buy] = win;
     }
     int maxProfit(vector<int>& prices) {
-        vector<vector<int>> dp(prices.size(), vector<int>(2, -1));
-        return profit(0,0,prices,dp);
+        // vector<vector<int>> dp(prices.size(), vector<int>(2, -1));
+        // return profit(0,0,prices,dp);
+        
+        int n = prices.size();
+        vector<vector<int>> dp(prices.size()+1, vector<int>(2, 0));
+        dp[n][0] = dp[n][1] = 0;
+        
+        for(int ind = n-1 ; ind >= 0 ;ind--){
+            for(int buy = 0 ; buy <= 1 ; buy++){
+        
+            int win =0;
+        
+            if(buy == 0){
+            int take = -prices[ind] + dp[ind+1][1];
+            int nottake = 0 + dp[ind+1][0];
+            win = max(take, nottake);
+            }
+            else{
+                int sell = +prices[ind] + dp[ind+1][0];
+                int notsell = 0 + dp[ind+1][1];
+                win += max(sell,notsell);
+            }
+            dp[ind][buy] = win;
+         }
+        }
+        return dp[0][0];
     }
 };
