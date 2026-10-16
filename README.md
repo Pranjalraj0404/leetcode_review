@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0217-contains-duplicate) |
 | [0542-01-matrix](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0827-making-a-large-island](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pranjalraj0404/leetcode_review/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Pranjalraj0404/leetcode_review/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pranjalraj0404/leetcode_review/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Bit Manipulation
 |  |
 | ------- |
