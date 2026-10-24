@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pranjalraj0404/leetcode_review/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Pranjalraj0404/leetcode_review/tree/master/1020-number-of-enclaves) |
+| [1049-last-stone-weight-ii](https://github.com/Pranjalraj0404/leetcode_review/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Pranjalraj0404/leetcode_review/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Two Pointers
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1049-last-stone-weight-ii](https://github.com/Pranjalraj0404/leetcode_review/tree/master/1049-last-stone-weight-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Pranjalraj0404/leetcode_review/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pranjalraj0404/leetcode_review/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Stack
@@ -398,8 +400,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Pranjalraj0404/leetcode_review/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Pranjalraj0404/leetcode_review/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
