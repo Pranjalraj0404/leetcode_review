@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0827-making-a-large-island](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0827-making-a-large-island) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0494-target-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -404,11 +407,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Pranjalraj0404/leetcode_review/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Pranjalraj0404/leetcode_review/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Pranjalraj0404/leetcode_review/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
